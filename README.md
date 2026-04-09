@@ -1,16 +1,25 @@
-# React + Vite
+# Day 1 E-commerce Product Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
+This is my **Day 1 Frontend Project**: a fully responsive e-commerce product page built with HTML, CSS, and JavaScript.  
 
-Currently, two official plugins are available:
+## 💻 Features
+- Responsive layout for mobile & desktop  
+- Product image gallery with interactive thumbnails  
+- Add-to-cart button UI  
+- Modern design using CSS flexbox/grid  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript  
 
-## React Compiler
+## 📸 Screenshots
+![Screenshot 1](./screenshot1.png)  
+![Screenshot 2](./screenshot2.png)  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🔗 Live Demo
+[GitHub Pages Link]  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👩‍💻 Author
+Rishika Uma – [GitHub](https://github.com/Rishikauma77)
